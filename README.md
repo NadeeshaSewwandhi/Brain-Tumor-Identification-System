@@ -1,10 +1,14 @@
 # Brain-Tumor-Identification-System
 
-The system is designed to assist medical professionals in detecting and classifying brain tumors from medical imaging data, such as MRI scans.
+## Introduction
+The Brain Tumor Identification System is designed to support medical professionals in detecting and classifying brain tumors using MRI scans. This system incorporates advanced image processing and machine learning techniques to enhance the quality of MRI images, segment brain regions, isolate potential tumor areas, and classify tumor types and severity. The system also provides visualization tools to present the results of segmentation and classification on the original MRI images.
 
-This Brain Tumor Identification System includes image preprocessing techniques for enhancing MRI image quality, algorithms for isolating brain regions and identifying potential tumor areas, feature extraction from segmented tumor regions, machine learning models for classifying tumor type and severity, and tools for visualizing the segmentation and classification results on the original MRI images.
-
-The system leverages Python for implementing image processing and machine learning algorithms, OpenCV for tasks such as filtering, segmentation, and feature extraction, scikit-learn for building and evaluating machine learning models, TensorFlow/Keras for developing deep learning models for tumor classification, and Matplotlib for visualizing the results of image processing and classification.
+## System Components
+Python ,
+OpenCV,
+scikit-learn,
+TensorFlow/Keras,
+Matplotlib
 
 
 
